@@ -26,7 +26,7 @@ This sample has two sheets. The Products sheet includes product ID, name, catego
 
 The PivotTable groups data by category in columns and by date in rows. It shows revenue totals. Electronics made $3,150 out of the $3,980 total, which is about 79%. 2 of the 12 orders used product IDs P999 and P110, which did not appear in the Products sheet. The Status column marked both as "Missing product". All other orders show "OK".
 
-![Orders with missing products flagged](Orders_missing_flagged.png)
+![Orders with missing products flagged](Orders_missing_product_flagged.png)
 ![Pivot table](Pivot_sales_by_category.png)
 
 ## PROBLEM I SOLVED
